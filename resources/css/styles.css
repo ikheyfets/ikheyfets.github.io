@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  background-color: A2D8E8;
+}
+
+.home {
+  background-image: url("./resources/img/background.JPG");
+}
+
+.about{
+
+}
+
+.portfolio {
+
+}
+
+.contact {
+
+}
