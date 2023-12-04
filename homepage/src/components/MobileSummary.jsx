@@ -20,8 +20,32 @@ function MobileSummary() {
             </div>
         </div>
         <div class="footer lead d-flex justify-content-center">
-        <p class="text my-auto">Software<span class="break"> // </span>ML<span class="break"> // </span> Data</p>
-    </div>
+        <div class="my-auto d-flex gap-2">
+            <a href="mailto::i.a.kheyfets@gmail.com" target="_blank">
+                <div class="d-flex gap-2 link">
+                    <img src={gmail} class="icon" alt=""/>
+                </div>
+            </a>
+            <span class="break"> || </span>
+            <a href="https://www.linkedin.com/in/ikheyfets/" target="_blank">
+                <div class="d-flex gap-2 link">
+                    <img src={linkedin} class="icon" alt="" id="linkedin"/>
+                </div>
+            </a>
+            <span class="break"> || </span>
+            <a href="https://github.com/ikheyfets" target="_blank">
+                <div class="d-flex gap-2 link">
+                    <img src={github} class="icon" alt=""/>
+                </div>
+            </a>
+            <span class="break"> || </span>
+            <a href={pdf} target="_blank">
+                <div class="d-flex gap-2 link">
+                    <img src={cv} class="icon" alt=""/>
+                </div>
+            </a>
+        </div>
+        </div>
     </div>
     return summary
 };
