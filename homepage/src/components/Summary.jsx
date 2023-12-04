@@ -3,7 +3,7 @@ import about from "./staticfiles/about-photo.png";
 
 function Summary() {
   const summary = 
-  <div class="section">
+  <div class="summary">
     <div class="container h-100 d-flex align-items-center">
       <div class="d-flex gap-5 d-sm-flex justify-content-sm-center">
         <img class="portrait" src={about} alt=""/>
