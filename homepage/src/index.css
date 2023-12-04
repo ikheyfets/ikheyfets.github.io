@@ -18,24 +18,32 @@ a:link {
   text-decoration: none; 
 }
 
-
 a:visited { 
   text-decoration: none; 
 }
-
 
 a:hover { 
   text-decoration: none; 
 }
 
-
 a:active { 
   text-decoration: none; 
 }
 
+td img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.text {
+  color: #ABB2BF;
+}
+
 .header {
   height: 7.5vh;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .summary {
@@ -44,6 +52,10 @@ a:active {
 
 .timeline {
   height: 35vh;
+}
+
+.slice {
+  height: 3vh;
 }
 
 .contact {
@@ -56,8 +68,8 @@ a:active {
   border-radius: 50%;
 }
 
-.text {
-  color: #ABB2BF;
+.current {
+  width: 300px;
 }
 
 .break {
@@ -66,12 +78,16 @@ a:active {
 
 .icon {
   height: 3vh;
+  width: ;
 }
 
 .link {
   color: #ABB2BF;
-
   background-color: none;
+}
+
+.link:hover {
+  color: #98C379;
 }
 
 #linkedin {
