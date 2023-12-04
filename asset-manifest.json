@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8aabaa8a.css",
+    "main.js": "/static/js/main.1bd6390e.js",
+    "static/media/about-photo.png": "/static/media/about-photo.8c2c64e5933f1eb8684e.png",
+    "static/media/matlab.png": "/static/media/matlab.5821b44d86984c741c1b.png",
+    "static/media/Rlogo.png": "/static/media/Rlogo.bd75ee7c20def19d4060.png",
+    "static/media/cv.pdf": "/static/media/cv.90f2b34617ea52acc805.pdf",
+    "static/media/tf.svg.png": "/static/media/tf.svg.5d49847106d9588c5473.png",
+    "static/media/scala.png": "/static/media/scala.3073660024a10c5c48d0.png",
+    "static/media/pytorch.svg.png": "/static/media/pytorch.svg.c3ba7144dab6ba9d7f98.png",
+    "static/media/skl.png": "/static/media/skl.7331ae6ffec1f5863d71.png",
+    "static/media/keras.svg.png": "/static/media/keras.svg.4ea7647a51ddb5d1b1ea.png",
+    "static/media/seaborn.png": "/static/media/seaborn.1bfc8551d24104800308.png",
+    "static/media/js.png": "/static/media/js.0138f37df9dc295d5ab7.png",
+    "static/media/python.png": "/static/media/python.cc95bac9a8f1cd2a3fca.png",
+    "static/media/gmail.png": "/static/media/gmail.1baaa74a2666b61485a6.png",
+    "static/media/cv.png": "/static/media/cv.02b00606e243f8945ade.png",
+    "static/media/github.png": "/static/media/github.a5527b5c02e754fc4a6d.png",
+    "static/media/java.png": "/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "index.html": "/index.html",
+    "main.8aabaa8a.css.map": "/static/css/main.8aabaa8a.css.map",
+    "main.1bd6390e.js.map": "/static/js/main.1bd6390e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aabaa8a.css",
+    "static/js/main.1bd6390e.js"
+  ]
+}
